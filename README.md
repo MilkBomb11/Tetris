@@ -3,7 +3,7 @@
 - Download folder: Tetris
 - Download LÖVE : https://love2d.org/
 - Unzip Tetris
-- Drag the Tetris file into LÖVE
+- Drag the Tetris file into love.exe
 - Enjoy!
 
 ## Controls
